@@ -1,6 +1,6 @@
 header 
 {
-    height: 50vh;
+    height: 100vh;
     padding: 7rem;
     overflow: hidden;
 }
@@ -13,7 +13,7 @@ header
 
 .call-to-action
 {
-    margin-top: 1.5rem;
+    margin-top: 2.5rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
