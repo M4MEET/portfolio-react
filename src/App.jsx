@@ -17,12 +17,12 @@ function App() {
         }, 2000)
       },[])
   return (
-         loading ? (
-          <>
-          <Loading /> 
-          </>
-
-          )  : (
+    
+    loading ? 
+      <>
+        <Loading /> 
+      </>
+          : 
       <>
         <Header />
         <Nav />
@@ -31,7 +31,7 @@ function App() {
         <Contact />
         <Footer />
       </>
-          )
+          
 )
 }
 
