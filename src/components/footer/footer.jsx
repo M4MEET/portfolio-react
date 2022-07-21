@@ -14,7 +14,7 @@ const footer = () => {
       </ul>   
 
       <div className="footer__copyright">
-        <small> &copy; Meet Joshi - I am the rights :D -> Whatchu gonna do about it eh? :D</small>
+        <small> &copy; Meet Joshi - I am the rights :D - Whatchu gonna do about it eh? :D</small>
         </div>     
     </footer>
   )

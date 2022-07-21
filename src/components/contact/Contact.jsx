@@ -1,7 +1,6 @@
 import React from 'react'
 import './contact.css'
 import {MdMarkEmailRead} from 'react-icons/md'
-import {BsWhatsapp} from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
 
