@@ -16,12 +16,11 @@ const about = () => {
             <article className="about__card">
               <FaAward className='about__icon' />
               <h3>experience</h3>
-              <small>born to code bitch!</small>
+              <small>Web Developer - Cloud Engineer</small>
             </article>
             <p>
-              Hello, I am Joshi working as Shopware/Web Developer at Battron GmbH. 
-              Shopware is e-commerce platform which uses various frontend and backend technologies to have better expericen for online shop. and bla bla blaaa
-            </p>
+              Hello, I am Joshi working as Fullstack Developer at Battron GmbH.
+              </p>
           </div>
         </div>
       </div>
